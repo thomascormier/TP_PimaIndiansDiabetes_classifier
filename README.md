@@ -27,7 +27,7 @@ pip install pandas
 pip install -U scikit-learn
 ```
 
-##Script : 
+## Script : 
 In a terminal enter the following command to run the script
 ```
 python main.py
