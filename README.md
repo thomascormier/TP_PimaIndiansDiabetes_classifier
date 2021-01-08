@@ -21,14 +21,14 @@ Can these measurements be used to model or even predict the presence / absence o
 - [Dataset](https://github.com/thomascormier/TP_PimaIndiansDiabetes_classifier/blob/main/data_PimaIndiansDiabetes.csv) : The dataset I had to work with.
 
 
-### Librairies to install : 
+### Execute script :
+In a terminal, start by installing librairies
 ```
 pip install pandas
 pip install -U scikit-learn
 ```
 
-## Script : 
-In a terminal enter the following command to run the script
+Then, you can execute the script
 ```
 python main.py
 ```
